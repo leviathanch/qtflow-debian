@@ -1,3 +1,9 @@
+qtflow (0.1+git34122a8-1) unstable; urgency=medium
+
+  * Making sure default configs are provided
+
+ -- David Lanzendörfer <david.lanzendoerfer@o2s.ch>  Tue, 08 May 2018 13:26:19 +0000
+
 qtflow (0.1+gitd32db10-1) unstable; urgency=medium
 
   * external management
